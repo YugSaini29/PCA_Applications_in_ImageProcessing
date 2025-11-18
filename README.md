@@ -1,2 +1,2 @@
 # PCA_Applications_in_ImageProcessing
-Project submited under Linear Algebra and Differential Equation course, Semester 3
+Project submitted under Linear Algebra and Differential Equation course, Semester 3
